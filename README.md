@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BadClause
+- 👀 I’m interested in Website And Javascript Developer
+- 🌱 I’m currently learning Html And Css
